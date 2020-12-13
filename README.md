@@ -10,5 +10,5 @@ DenseNet architecture explicitly differentiates between information that is adde
 Instead of drawing representational power from extremely deep or wide architectures, DenseNets exploit the potential of the network through feature reuse, yielding condensed models that are easy to train and highly parameterefficient. Concatenating feature-maps learned by different layers increases variation in the input of subsequent layers and improves efficiency. This constitutes a major difference between DenseNets and ResNets. Compared to Inception networks, which also concatenate features from different layers, DenseNets are simpler and more efficient.  <br />
 
 The output looks like :  <br />
-![Screenshot](cifar1.png)
-![Screenshot](cifar2.png)
+![Screenshot](cifar1.PNG)
+![Screenshot](cifar2.PNG)
